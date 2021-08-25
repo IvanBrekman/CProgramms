@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/CPractic.dir/main.c.o CMakeFiles/CPractic.dir/solve_equation.c.o CMakeFiles/CPractic.dir/test.c.o -o CPractic  -lm 

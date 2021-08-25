@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ivanbrekman/CLionProjects/CPractic/solve_equation.c
+assert.h
+-
+stdio.h
+-
+stddef.h
+-
+stdbool.h
+-
+math.h
+-
+errno.h
+-
+solve_equation.h
+/home/ivanbrekman/CLionProjects/CPractic/solve_equation.h
+
+/home/ivanbrekman/CLionProjects/CPractic/solve_equation.h
+stdbool.h
+-
+
+/home/ivanbrekman/CLionProjects/CPractic/test.c
+stdio.h
+-
+errno.h
+-
+math.h
+-
+test.h
+/home/ivanbrekman/CLionProjects/CPractic/test.h
+solve_equation.h
+/home/ivanbrekman/CLionProjects/CPractic/solve_equation.h
+
+/home/ivanbrekman/CLionProjects/CPractic/test.h
+
